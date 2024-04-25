@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "money-convertiser",
-    "slug": "money-convertiser",
+    "name": "Convertisseur de monnaie",
+    "slug": "convertisseur",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mmct13.convertisseur"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9b1c2b25-ddbd-4c3a-ba87-17044ba702e6"
+      }
     }
   }
 }
