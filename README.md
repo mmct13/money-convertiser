@@ -34,11 +34,8 @@ Une fois l'application lancée, vous pouvez :
 
 ## Contributeurs
 
-- [Votre Nom](lien_vers_profil_github) - Développeur principal
+- [Marshall Christ](https://github.com/mmct13) - Développeur principal
 
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier `LICENSE.md` pour plus de détails.
 
 ## Remarque
 
